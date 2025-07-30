@@ -7,6 +7,7 @@ An Arduino-powered smart car with 4 DC motors, a servo motor, and an ultrasonic 
 - [How It Works](#how-it-works)
 - [Code Overview](#code-overview)
 - [Demo](#demo)
+- [Future Improvements](#Future-Improvements)
 
 
 # Components Used
@@ -48,3 +49,10 @@ An Arduino-powered smart car with 4 DC motors, a servo motor, and an ultrasonic 
 
 https://github.com/user-attachments/assets/9aca30fd-a5c3-4031-9ad8-2160a31b3741
 
+# Future Improvements
+
+- Add Bluetooth or Wi-Fi for remote/manual control
+
+- Use more sensors for edge or line detection
+
+- Implement smarter pathfinding logic
