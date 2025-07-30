@@ -37,7 +37,7 @@ An Arduino-powered smart car with 4 DC motors, a servo motor, and an ultrasonic 
 
 # Code Overview
 
-- Libraries Used:
+Libraries Used:
 
 - AFMotor.h: Used to control the 4 DC motors via the L293D motor driver shield (Adafruit Motor Shield).
 
