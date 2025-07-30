@@ -14,17 +14,17 @@ An Arduino-powered smart car with 4 DC motors, a servo motor, and an ultrasonic 
 | Jumper Wires / Chassis    | Standard car frame and wiring               |
 
 # How It Works
-1- The servo motor sweeps the ultrasonic sensor from side to side.
+1-The servo motor sweeps the ultrasonic sensor from side to side.
 
-2- The sensor checks for obstacles in front, left, and right directions.
+2-The sensor checks for obstacles in front, left, and right directions.
 
-3- Based on the distance, the Arduino:
+3-Based on the distance, the Arduino:
 
--Moves forward if the path is clear.
+- Moves forward if the path is clear.
 
--Turns left or right if an obstacle is ahead.
+- Turns left or right if an obstacle is ahead.
 
--Stops if no clear path is found.
+- Stops if no clear path is found.
 
 # Code Overview
 
